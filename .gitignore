@@ -1,0 +1,78 @@
+# Visual Studio workspace state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio database and cache files
+ipch/
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.ncb
+*.db
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM64/
+bin/
+obj/
+out/
+build/
+Compiled/
+**/obj/
+**/Compiled/
+
+# MSBuild and compiler intermediates
+*.obj
+*.iobj
+*.ipdb
+*.idb
+*.pch
+*.tlog
+*.lastbuildstate
+*.recipe
+*.res
+*.aps
+*.ilk
+*.exp
+*.map
+*.log
+
+# Generated binaries and symbols
+*.exe
+*.dll
+*.sys
+*.pdb
+
+# Generated/local key material
+key.h
+**/key.h
+*.pfx
+*.p12
+*.pem
+*.key
+*.snk
+
+# Local protection and packaging tooling
+CodeCS/
+*.protected
+*_protected.*
+
+# Dependency manager output
+packages/
+vcpkg_installed/
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.cache
